@@ -17,8 +17,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Willkommen auf der Seite von {' '}
+          <code className={styles.code}>Lotus GmbH</code>
         </p>
 
         <div className={styles.grid}>
